@@ -70,3 +70,4 @@ The implementation of a linked list in C involves defining a node structure and 
 4. *Traverse the List* – Print or search for elements in the list.  
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/f6894a4d-04dd-4935-a55d-c83c28167376)
